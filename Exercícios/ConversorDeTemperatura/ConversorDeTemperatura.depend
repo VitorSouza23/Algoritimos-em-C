@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1479841428 source:e:\algoritimos em c\exercícios\conversordetemperatura\main.c
+	<stdio.h>
+	<stdlib.h>
+
